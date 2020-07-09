@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Shahid! :D
+
 <!--
 **shahidsarker/shahidsarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### 🌱 I’m currently learning
+- Redux
+
+#### 📫 How to reach me:
+shahid.sarker@gmail.com
