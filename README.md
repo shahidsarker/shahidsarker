@@ -1,4 +1,4 @@
-### Hi, I'm Shahid! 👋
+### Hi, I'm Shahid! 👋🏽
 
 #### I'm a developer based in New York
 
