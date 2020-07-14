@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi, I'm Shahid! 👋
 
-I'm Shahid! :D
+#### I'm a developer based in New York
+
+- 🔭 Currently looking for a full-time developer role
+- 🌱 I’m currently learning Redux
+- 👯 I’m looking to collaborate on React and Express projects
+- 💬 Ask me about Node.js, React, Express, Ruby on Rails, Postgres
+- ⚡ Fun fact: I like cooking and fermenting foods!
+- 📫 How to reach me: shahid.sarker@gmail.com
+- 😄 Pronouns: he/him
 
 <!--
 **shahidsarker/shahidsarker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-#### 🌱 I’m currently learning
-- Redux
-
-#### 📫 How to reach me:
-shahid.sarker@gmail.com
