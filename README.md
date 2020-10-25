@@ -2,8 +2,8 @@
 
 #### I'm a developer based in New York
 
-- 🔭 Currently looking for a full-time developer role
-- 🌱 I’m currently learning Redux
+- 🔭 Currently looking for a full-time engineering role
+- 🌱 I’m currently working on a React/Express project
 - 👯 I’m looking to collaborate on React and Express projects
 - 💬 Ask me about Node.js, React, Express, Ruby on Rails, Postgres
 - ⚡ Fun fact: I like cooking and fermenting foods!
