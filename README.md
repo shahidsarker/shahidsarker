@@ -2,9 +2,8 @@
 
 #### I'm a developer based in New York
 
-- 🔭 Currently looking for a full-time engineering role
-- 🌱 I’m currently working on a React/Express project
-- 👯 I’m looking to collaborate on React and Express projects
+- 🔭 Currently a frontend engineer working mainly in React
+- 🌱 I'm also a co-organizer of NYC Coders
 - 💬 Ask me about Node.js, React, Express, Ruby on Rails, Postgres
 - ⚡ Fun fact: I like cooking and fermenting foods!
 - 📫 How to reach me: shahid.sarker@gmail.com
