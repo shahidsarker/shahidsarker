@@ -1,6 +1,6 @@
 ### Hi, I'm Shahid! 👋🏽
 
-#### I'm a developer based in New York
+#### I'm a frontend engineer based in New York
 
 - 🔭 Currently a frontend engineer working mainly in React
 - 🌱 I'm also a co-organizer of NYC Coders
