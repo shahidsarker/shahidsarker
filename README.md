@@ -2,7 +2,7 @@
 
 #### I'm a frontend engineer based in New York
 
-- 🔭 Currently a frontend engineer working mainly in React
+- 🔭 Currently working mainly in React
 - 🌱 I'm also a co-organizer of NYC Coders
 - 💬 Ask me about Node.js, React, Express, Ruby on Rails, Postgres
 - ⚡ Fun fact: I like cooking and fermenting foods!
