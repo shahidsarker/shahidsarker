@@ -1,8 +1,8 @@
 ### Hi, I'm Shahid! 👋🏽
 
-#### I'm a frontend engineer based in New York
+#### I'm a software engineer based in New York
 
-- 🔭 Currently working mainly in React
+- 🔭 Currently working mainly in React and PHP
 - 🌱 I'm also a co-organizer of NYC Coders
 - 💬 Ask me about Node.js, React, Express, Ruby on Rails, Postgres
 - ⚡ Fun fact: I like cooking and fermenting foods!
