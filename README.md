@@ -2,9 +2,9 @@
 
 #### I'm a software engineer based in New York
 
-- 🔭 Currently working mainly in React and PHP
+- 🔭 Currently working mainly in VueJS/Express and TypeScript
 - 🌱 I'm also a co-organizer of NYC Coders
-- 💬 Ask me about Node.js, React, Express, Ruby on Rails, Postgres
+- 💬 Ask me about Node.js, VueJS, Nest.js, Express, Next.js, React, Postgres, Ruby on Rails
 - ⚡ Fun fact: I like cooking and fermenting foods!
 - 📫 How to reach me: shahid.sarker@gmail.com
 - 😄 Pronouns: he/him
